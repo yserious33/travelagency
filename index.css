@@ -1,0 +1,153 @@
+body, .rnd, .lower{
+	background-color: #A3B9C8;
+	border-radius: 0px 0px 45px 45px;
+}
+.toprnd{
+	border-radius: 45px 45px 0px 0px;
+}
+.bothrnd{
+	border-radius: 45px;
+}
+.gift{
+	font-size: 25px;
+	font-style: italic;
+	text-align: right; 
+
+}
+
+.luggage, .scuba, .resort{
+	color: white;
+}
+
+.relax{font-family: 'Qwigley', cursive;
+font-size: 55px;
+text-shadow: 2px 2px #222;
+
+}
+.wonder{font-family: 'IM Fell DW Pica', serif;
+font-size: 40px;
+}
+.explore{
+	font-family: 'Cantarell', sans-serif;
+}
+.underline{
+	font-size:16px;
+	text-decoration: underline;
+}
+.navbar{
+	background-color:#708FA3;
+	border-color: #708FA3;
+	opacity:0.5;
+}
+.panel-default>.panel-heading{
+	background-color:#73B093;
+	border-color:#73B093;
+}
+.navbar-inverse .navbar-brand {
+	color:black;
+	border-bottom: 
+}
+.btn{
+	color:white;
+	background-color:#123752;
+}
+.panel-body{
+background-color: #708FA3;
+}
+div.row{
+	background-color: #486F88;
+}
+div.well{
+	background-color: #486F88;
+}
+ol.breadcrumb{
+	background-color: #486F88;
+
+}
+header.carousel{
+	height:350px;
+}
+h1, h2, h3{
+	text-align: center;
+	font-family: 'Droid Serif', serif;
+}
+p{
+	font-family: 'Gilda Display', serif;
+	font-size: 20px;
+
+}
+div.col-md-6{
+	font-size: large;
+	font-family: sans-serif;
+	color: #a3b9c8;
+}
+
+
+p.underline{
+	font-size: x-large; 
+	color: white;
+}
+
+
+.urgent{
+	color: red;
+}
+a{
+	color:white;
+}
+button{
+	border-radius: 10px;
+}
+img{
+	box-shadow: 1px 1px 2px 2px #222;
+}
+p.gift{
+	padding-right: 75px;
+}
+.port{
+	background-color: blue;
+}
+.boxshadow{
+	box-shadow: 2px 2px 2px 2px #222;
+}
+a.navbar-brand{
+	font-family: fantasy;
+    font-size: large;
+}
+p.resort, p.luggage, p.scuba{
+	    font-family: -webkit-body;
+    font-size: medium;
+    text-align: center;
+
+
+}
+
+h4{
+	text-align: -webkit-center;
+    font-size: x-large;
+    font-family: inherit;
+}
+
+p.scuba{
+	color: #f2ecec;
+    font-weight: bolder;
+    text-shadow: 2px 1px black;
+}
+p.text{
+	    font-family: fantasy;
+    font-size: large;
+}
+
+
+
+#wrapper .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#wrapper:hover .text {
+visibility:visible;
+text-align: center;
+}
